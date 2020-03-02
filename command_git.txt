@@ -1,0 +1,23 @@
+
+Create new repository
+$ git init <name repository>
+
+Status
+$ git status
+
+Add file (all)
+$ git add
+
+commit file
+S git commit -m 'comment'
+
+clone repository distant
+$ git clone <Url_github>
+
+recup only the miss  file in your local repository
+$ git fetch  <Url_github>
+
+Send file since local repository to distant repository
+$ gt push branch master
+
+
